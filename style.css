@@ -1,0 +1,31 @@
+header {
+    text-align: center;
+}
+
+#button-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#sizeButton {
+    background-color: transparent;
+    border: transparent;
+    color: yellow;
+}
+
+body {
+    background-color: gray;
+}
+
+#grid-container {
+    display: grid;
+    max-width: 500px;
+    min-height: 500px;
+    margin: auto;
+}
+
+.gridElement {
+    background-color: white;
+    border: 1px solid black;
+}
+
